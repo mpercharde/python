@@ -1,9 +1,8 @@
-
+#michelle percharde 2016
 # coding: utf-8
 
-# In[3]:
-
 #script to take a data frame and plot stuff
+#now version controlled
 
 #import libraries
 import pandas
